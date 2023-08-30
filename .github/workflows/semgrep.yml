@@ -8,6 +8,7 @@
 #
 # See https://semgrep.dev/docs
 
+
 ## triggers
 on:
   push:
